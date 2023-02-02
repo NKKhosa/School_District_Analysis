@@ -2,7 +2,7 @@
 ## Overview
 An analysis was performed on high school student performance in two subjects, math and reading, to determine which factors affect student outcomes. The results will be used to inform discussions and decisions on future spending and performance. After completeing the analysis, it came to light that some scores from Thomas High School (THS) 9th graders may be invalid, so we set them as null and performed the analysis again.
 
-## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+## Results: 
 
 How is the district summary affected?
   - The average math score went down by 0.1% from 79% to 78.9%.
